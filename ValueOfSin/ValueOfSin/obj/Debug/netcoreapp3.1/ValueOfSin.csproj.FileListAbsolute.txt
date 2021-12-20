@@ -1,0 +1,12 @@
+C:\Users\Gaurav~Varuagme\source\repos\ValueOfSin\ValueOfSin\bin\Debug\netcoreapp3.1\ValueOfSin.exe
+C:\Users\Gaurav~Varuagme\source\repos\ValueOfSin\ValueOfSin\bin\Debug\netcoreapp3.1\ValueOfSin.deps.json
+C:\Users\Gaurav~Varuagme\source\repos\ValueOfSin\ValueOfSin\bin\Debug\netcoreapp3.1\ValueOfSin.runtimeconfig.json
+C:\Users\Gaurav~Varuagme\source\repos\ValueOfSin\ValueOfSin\bin\Debug\netcoreapp3.1\ValueOfSin.runtimeconfig.dev.json
+C:\Users\Gaurav~Varuagme\source\repos\ValueOfSin\ValueOfSin\bin\Debug\netcoreapp3.1\ValueOfSin.dll
+C:\Users\Gaurav~Varuagme\source\repos\ValueOfSin\ValueOfSin\bin\Debug\netcoreapp3.1\ValueOfSin.pdb
+C:\Users\Gaurav~Varuagme\source\repos\ValueOfSin\ValueOfSin\obj\Debug\netcoreapp3.1\ValueOfSin.AssemblyInfoInputs.cache
+C:\Users\Gaurav~Varuagme\source\repos\ValueOfSin\ValueOfSin\obj\Debug\netcoreapp3.1\ValueOfSin.AssemblyInfo.cs
+C:\Users\Gaurav~Varuagme\source\repos\ValueOfSin\ValueOfSin\obj\Debug\netcoreapp3.1\ValueOfSin.csproj.CoreCompileInputs.cache
+C:\Users\Gaurav~Varuagme\source\repos\ValueOfSin\ValueOfSin\obj\Debug\netcoreapp3.1\ValueOfSin.dll
+C:\Users\Gaurav~Varuagme\source\repos\ValueOfSin\ValueOfSin\obj\Debug\netcoreapp3.1\ValueOfSin.pdb
+C:\Users\Gaurav~Varuagme\source\repos\ValueOfSin\ValueOfSin\obj\Debug\netcoreapp3.1\ValueOfSin.genruntimeconfig.cache
