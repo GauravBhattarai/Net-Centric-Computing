@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Body Mass Index/1.0.0": {
+        "runtime": {
+          "Body Mass Index.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Body Mass Index/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

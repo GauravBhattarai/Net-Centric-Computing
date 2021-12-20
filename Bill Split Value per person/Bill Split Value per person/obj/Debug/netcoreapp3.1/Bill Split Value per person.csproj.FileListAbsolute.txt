@@ -1,0 +1,13 @@
+C:\Users\Gaurav~Varuagme\source\repos\Bill Split Value per person\Bill Split Value per person\bin\Debug\netcoreapp3.1\Bill Split Value per person.exe
+C:\Users\Gaurav~Varuagme\source\repos\Bill Split Value per person\Bill Split Value per person\bin\Debug\netcoreapp3.1\Bill Split Value per person.deps.json
+C:\Users\Gaurav~Varuagme\source\repos\Bill Split Value per person\Bill Split Value per person\bin\Debug\netcoreapp3.1\Bill Split Value per person.runtimeconfig.json
+C:\Users\Gaurav~Varuagme\source\repos\Bill Split Value per person\Bill Split Value per person\bin\Debug\netcoreapp3.1\Bill Split Value per person.runtimeconfig.dev.json
+C:\Users\Gaurav~Varuagme\source\repos\Bill Split Value per person\Bill Split Value per person\bin\Debug\netcoreapp3.1\Bill Split Value per person.dll
+C:\Users\Gaurav~Varuagme\source\repos\Bill Split Value per person\Bill Split Value per person\bin\Debug\netcoreapp3.1\Bill Split Value per person.pdb
+C:\Users\Gaurav~Varuagme\source\repos\Bill Split Value per person\Bill Split Value per person\obj\Debug\netcoreapp3.1\Bill Split Value per person.csprojAssemblyReference.cache
+C:\Users\Gaurav~Varuagme\source\repos\Bill Split Value per person\Bill Split Value per person\obj\Debug\netcoreapp3.1\Bill Split Value per person.AssemblyInfoInputs.cache
+C:\Users\Gaurav~Varuagme\source\repos\Bill Split Value per person\Bill Split Value per person\obj\Debug\netcoreapp3.1\Bill Split Value per person.AssemblyInfo.cs
+C:\Users\Gaurav~Varuagme\source\repos\Bill Split Value per person\Bill Split Value per person\obj\Debug\netcoreapp3.1\Bill Split Value per person.csproj.CoreCompileInputs.cache
+C:\Users\Gaurav~Varuagme\source\repos\Bill Split Value per person\Bill Split Value per person\obj\Debug\netcoreapp3.1\Bill Split Value per person.dll
+C:\Users\Gaurav~Varuagme\source\repos\Bill Split Value per person\Bill Split Value per person\obj\Debug\netcoreapp3.1\Bill Split Value per person.pdb
+C:\Users\Gaurav~Varuagme\source\repos\Bill Split Value per person\Bill Split Value per person\obj\Debug\netcoreapp3.1\Bill Split Value per person.genruntimeconfig.cache

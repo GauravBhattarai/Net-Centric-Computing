@@ -1,0 +1,13 @@
+D:\Sixth Semester\Net Centric Compuing\Coding\Area of circle\Area of circle\bin\Debug\netcoreapp3.1\Area of circle.exe
+D:\Sixth Semester\Net Centric Compuing\Coding\Area of circle\Area of circle\bin\Debug\netcoreapp3.1\Area of circle.deps.json
+D:\Sixth Semester\Net Centric Compuing\Coding\Area of circle\Area of circle\bin\Debug\netcoreapp3.1\Area of circle.runtimeconfig.json
+D:\Sixth Semester\Net Centric Compuing\Coding\Area of circle\Area of circle\bin\Debug\netcoreapp3.1\Area of circle.runtimeconfig.dev.json
+D:\Sixth Semester\Net Centric Compuing\Coding\Area of circle\Area of circle\bin\Debug\netcoreapp3.1\Area of circle.dll
+D:\Sixth Semester\Net Centric Compuing\Coding\Area of circle\Area of circle\bin\Debug\netcoreapp3.1\Area of circle.pdb
+D:\Sixth Semester\Net Centric Compuing\Coding\Area of circle\Area of circle\obj\Debug\netcoreapp3.1\Area of circle.csprojAssemblyReference.cache
+D:\Sixth Semester\Net Centric Compuing\Coding\Area of circle\Area of circle\obj\Debug\netcoreapp3.1\Area of circle.AssemblyInfoInputs.cache
+D:\Sixth Semester\Net Centric Compuing\Coding\Area of circle\Area of circle\obj\Debug\netcoreapp3.1\Area of circle.AssemblyInfo.cs
+D:\Sixth Semester\Net Centric Compuing\Coding\Area of circle\Area of circle\obj\Debug\netcoreapp3.1\Area of circle.csproj.CoreCompileInputs.cache
+D:\Sixth Semester\Net Centric Compuing\Coding\Area of circle\Area of circle\obj\Debug\netcoreapp3.1\Area of circle.dll
+D:\Sixth Semester\Net Centric Compuing\Coding\Area of circle\Area of circle\obj\Debug\netcoreapp3.1\Area of circle.pdb
+D:\Sixth Semester\Net Centric Compuing\Coding\Area of circle\Area of circle\obj\Debug\netcoreapp3.1\Area of circle.genruntimeconfig.cache

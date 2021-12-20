@@ -1,0 +1,12 @@
+D:\Sixth Semester\Net Centric Compuing\Coding\Body Mass Index\Body Mass Index\bin\Debug\netcoreapp3.1\Body Mass Index.exe
+D:\Sixth Semester\Net Centric Compuing\Coding\Body Mass Index\Body Mass Index\bin\Debug\netcoreapp3.1\Body Mass Index.deps.json
+D:\Sixth Semester\Net Centric Compuing\Coding\Body Mass Index\Body Mass Index\bin\Debug\netcoreapp3.1\Body Mass Index.runtimeconfig.json
+D:\Sixth Semester\Net Centric Compuing\Coding\Body Mass Index\Body Mass Index\bin\Debug\netcoreapp3.1\Body Mass Index.runtimeconfig.dev.json
+D:\Sixth Semester\Net Centric Compuing\Coding\Body Mass Index\Body Mass Index\bin\Debug\netcoreapp3.1\Body Mass Index.dll
+D:\Sixth Semester\Net Centric Compuing\Coding\Body Mass Index\Body Mass Index\bin\Debug\netcoreapp3.1\Body Mass Index.pdb
+D:\Sixth Semester\Net Centric Compuing\Coding\Body Mass Index\Body Mass Index\obj\Debug\netcoreapp3.1\Body Mass Index.AssemblyInfoInputs.cache
+D:\Sixth Semester\Net Centric Compuing\Coding\Body Mass Index\Body Mass Index\obj\Debug\netcoreapp3.1\Body Mass Index.AssemblyInfo.cs
+D:\Sixth Semester\Net Centric Compuing\Coding\Body Mass Index\Body Mass Index\obj\Debug\netcoreapp3.1\Body Mass Index.csproj.CoreCompileInputs.cache
+D:\Sixth Semester\Net Centric Compuing\Coding\Body Mass Index\Body Mass Index\obj\Debug\netcoreapp3.1\Body Mass Index.dll
+D:\Sixth Semester\Net Centric Compuing\Coding\Body Mass Index\Body Mass Index\obj\Debug\netcoreapp3.1\Body Mass Index.pdb
+D:\Sixth Semester\Net Centric Compuing\Coding\Body Mass Index\Body Mass Index\obj\Debug\netcoreapp3.1\Body Mass Index.genruntimeconfig.cache
