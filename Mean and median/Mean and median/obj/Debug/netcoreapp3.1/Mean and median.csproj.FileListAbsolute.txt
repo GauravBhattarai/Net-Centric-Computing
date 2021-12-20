@@ -1,0 +1,13 @@
+D:\Sixth Semester\Net Centric Compuing\Coding\Mean and median\Mean and median\obj\Debug\netcoreapp3.1\Mean and median.csprojAssemblyReference.cache
+D:\Sixth Semester\Net Centric Compuing\Coding\Mean and median\Mean and median\obj\Debug\netcoreapp3.1\Mean and median.AssemblyInfoInputs.cache
+D:\Sixth Semester\Net Centric Compuing\Coding\Mean and median\Mean and median\obj\Debug\netcoreapp3.1\Mean and median.AssemblyInfo.cs
+D:\Sixth Semester\Net Centric Compuing\Coding\Mean and median\Mean and median\obj\Debug\netcoreapp3.1\Mean and median.csproj.CoreCompileInputs.cache
+D:\Sixth Semester\Net Centric Compuing\Coding\Mean and median\Mean and median\bin\Debug\netcoreapp3.1\Mean and median.exe
+D:\Sixth Semester\Net Centric Compuing\Coding\Mean and median\Mean and median\bin\Debug\netcoreapp3.1\Mean and median.deps.json
+D:\Sixth Semester\Net Centric Compuing\Coding\Mean and median\Mean and median\bin\Debug\netcoreapp3.1\Mean and median.runtimeconfig.json
+D:\Sixth Semester\Net Centric Compuing\Coding\Mean and median\Mean and median\bin\Debug\netcoreapp3.1\Mean and median.runtimeconfig.dev.json
+D:\Sixth Semester\Net Centric Compuing\Coding\Mean and median\Mean and median\bin\Debug\netcoreapp3.1\Mean and median.dll
+D:\Sixth Semester\Net Centric Compuing\Coding\Mean and median\Mean and median\bin\Debug\netcoreapp3.1\Mean and median.pdb
+D:\Sixth Semester\Net Centric Compuing\Coding\Mean and median\Mean and median\obj\Debug\netcoreapp3.1\Mean and median.dll
+D:\Sixth Semester\Net Centric Compuing\Coding\Mean and median\Mean and median\obj\Debug\netcoreapp3.1\Mean and median.pdb
+D:\Sixth Semester\Net Centric Compuing\Coding\Mean and median\Mean and median\obj\Debug\netcoreapp3.1\Mean and median.genruntimeconfig.cache
