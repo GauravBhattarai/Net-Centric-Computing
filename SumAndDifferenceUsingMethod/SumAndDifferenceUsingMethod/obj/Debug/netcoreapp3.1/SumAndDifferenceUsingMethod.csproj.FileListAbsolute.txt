@@ -1,0 +1,12 @@
+C:\Users\Gaurav~Varuagme\source\repos\SumAndDifferenceUsingMethod\SumAndDifferenceUsingMethod\bin\Debug\netcoreapp3.1\SumAndDifferenceUsingMethod.exe
+C:\Users\Gaurav~Varuagme\source\repos\SumAndDifferenceUsingMethod\SumAndDifferenceUsingMethod\bin\Debug\netcoreapp3.1\SumAndDifferenceUsingMethod.deps.json
+C:\Users\Gaurav~Varuagme\source\repos\SumAndDifferenceUsingMethod\SumAndDifferenceUsingMethod\bin\Debug\netcoreapp3.1\SumAndDifferenceUsingMethod.runtimeconfig.json
+C:\Users\Gaurav~Varuagme\source\repos\SumAndDifferenceUsingMethod\SumAndDifferenceUsingMethod\bin\Debug\netcoreapp3.1\SumAndDifferenceUsingMethod.runtimeconfig.dev.json
+C:\Users\Gaurav~Varuagme\source\repos\SumAndDifferenceUsingMethod\SumAndDifferenceUsingMethod\bin\Debug\netcoreapp3.1\SumAndDifferenceUsingMethod.dll
+C:\Users\Gaurav~Varuagme\source\repos\SumAndDifferenceUsingMethod\SumAndDifferenceUsingMethod\bin\Debug\netcoreapp3.1\SumAndDifferenceUsingMethod.pdb
+C:\Users\Gaurav~Varuagme\source\repos\SumAndDifferenceUsingMethod\SumAndDifferenceUsingMethod\obj\Debug\netcoreapp3.1\SumAndDifferenceUsingMethod.AssemblyInfoInputs.cache
+C:\Users\Gaurav~Varuagme\source\repos\SumAndDifferenceUsingMethod\SumAndDifferenceUsingMethod\obj\Debug\netcoreapp3.1\SumAndDifferenceUsingMethod.AssemblyInfo.cs
+C:\Users\Gaurav~Varuagme\source\repos\SumAndDifferenceUsingMethod\SumAndDifferenceUsingMethod\obj\Debug\netcoreapp3.1\SumAndDifferenceUsingMethod.csproj.CoreCompileInputs.cache
+C:\Users\Gaurav~Varuagme\source\repos\SumAndDifferenceUsingMethod\SumAndDifferenceUsingMethod\obj\Debug\netcoreapp3.1\SumAndDifferenceUsingMethod.dll
+C:\Users\Gaurav~Varuagme\source\repos\SumAndDifferenceUsingMethod\SumAndDifferenceUsingMethod\obj\Debug\netcoreapp3.1\SumAndDifferenceUsingMethod.pdb
+C:\Users\Gaurav~Varuagme\source\repos\SumAndDifferenceUsingMethod\SumAndDifferenceUsingMethod\obj\Debug\netcoreapp3.1\SumAndDifferenceUsingMethod.genruntimeconfig.cache
