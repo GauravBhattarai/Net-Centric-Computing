@@ -1,0 +1,13 @@
+C:\Users\Gaurav~Varuagme\source\repos\Mean median user input\Mean median user input\bin\Debug\netcoreapp3.1\Mean median user input.exe
+C:\Users\Gaurav~Varuagme\source\repos\Mean median user input\Mean median user input\bin\Debug\netcoreapp3.1\Mean median user input.deps.json
+C:\Users\Gaurav~Varuagme\source\repos\Mean median user input\Mean median user input\bin\Debug\netcoreapp3.1\Mean median user input.runtimeconfig.json
+C:\Users\Gaurav~Varuagme\source\repos\Mean median user input\Mean median user input\bin\Debug\netcoreapp3.1\Mean median user input.runtimeconfig.dev.json
+C:\Users\Gaurav~Varuagme\source\repos\Mean median user input\Mean median user input\bin\Debug\netcoreapp3.1\Mean median user input.dll
+C:\Users\Gaurav~Varuagme\source\repos\Mean median user input\Mean median user input\bin\Debug\netcoreapp3.1\Mean median user input.pdb
+C:\Users\Gaurav~Varuagme\source\repos\Mean median user input\Mean median user input\obj\Debug\netcoreapp3.1\Mean median user input.csprojAssemblyReference.cache
+C:\Users\Gaurav~Varuagme\source\repos\Mean median user input\Mean median user input\obj\Debug\netcoreapp3.1\Mean median user input.AssemblyInfoInputs.cache
+C:\Users\Gaurav~Varuagme\source\repos\Mean median user input\Mean median user input\obj\Debug\netcoreapp3.1\Mean median user input.AssemblyInfo.cs
+C:\Users\Gaurav~Varuagme\source\repos\Mean median user input\Mean median user input\obj\Debug\netcoreapp3.1\Mean median user input.csproj.CoreCompileInputs.cache
+C:\Users\Gaurav~Varuagme\source\repos\Mean median user input\Mean median user input\obj\Debug\netcoreapp3.1\Mean median user input.dll
+C:\Users\Gaurav~Varuagme\source\repos\Mean median user input\Mean median user input\obj\Debug\netcoreapp3.1\Mean median user input.pdb
+C:\Users\Gaurav~Varuagme\source\repos\Mean median user input\Mean median user input\obj\Debug\netcoreapp3.1\Mean median user input.genruntimeconfig.cache
