@@ -1,0 +1,12 @@
+D:\Sixth Semester\Net Centric Compuing\Coding\Volume of sphare\Volume of sphare\bin\Debug\netcoreapp3.1\Volume of sphare.exe
+D:\Sixth Semester\Net Centric Compuing\Coding\Volume of sphare\Volume of sphare\bin\Debug\netcoreapp3.1\Volume of sphare.deps.json
+D:\Sixth Semester\Net Centric Compuing\Coding\Volume of sphare\Volume of sphare\bin\Debug\netcoreapp3.1\Volume of sphare.runtimeconfig.json
+D:\Sixth Semester\Net Centric Compuing\Coding\Volume of sphare\Volume of sphare\bin\Debug\netcoreapp3.1\Volume of sphare.runtimeconfig.dev.json
+D:\Sixth Semester\Net Centric Compuing\Coding\Volume of sphare\Volume of sphare\bin\Debug\netcoreapp3.1\Volume of sphare.dll
+D:\Sixth Semester\Net Centric Compuing\Coding\Volume of sphare\Volume of sphare\bin\Debug\netcoreapp3.1\Volume of sphare.pdb
+D:\Sixth Semester\Net Centric Compuing\Coding\Volume of sphare\Volume of sphare\obj\Debug\netcoreapp3.1\Volume of sphare.AssemblyInfoInputs.cache
+D:\Sixth Semester\Net Centric Compuing\Coding\Volume of sphare\Volume of sphare\obj\Debug\netcoreapp3.1\Volume of sphare.AssemblyInfo.cs
+D:\Sixth Semester\Net Centric Compuing\Coding\Volume of sphare\Volume of sphare\obj\Debug\netcoreapp3.1\Volume of sphare.csproj.CoreCompileInputs.cache
+D:\Sixth Semester\Net Centric Compuing\Coding\Volume of sphare\Volume of sphare\obj\Debug\netcoreapp3.1\Volume of sphare.dll
+D:\Sixth Semester\Net Centric Compuing\Coding\Volume of sphare\Volume of sphare\obj\Debug\netcoreapp3.1\Volume of sphare.pdb
+D:\Sixth Semester\Net Centric Compuing\Coding\Volume of sphare\Volume of sphare\obj\Debug\netcoreapp3.1\Volume of sphare.genruntimeconfig.cache

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Volume of sphare", "Volume of sphare\Volume of sphare.csproj", "{04F5BE25-417C-44B9-8C06-462F00DF1B14}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04F5BE25-417C-44B9-8C06-462F00DF1B14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04F5BE25-417C-44B9-8C06-462F00DF1B14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04F5BE25-417C-44B9-8C06-462F00DF1B14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04F5BE25-417C-44B9-8C06-462F00DF1B14}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0CCAE3B2-6E7A-43D8-B829-4745D948B00F}
+	EndGlobalSection
+EndGlobal
