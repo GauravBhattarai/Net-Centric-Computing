@@ -1,0 +1,13 @@
+D:\Sixth Semester\Net Centric Compuing\Coding\Hello World\Hello World\bin\Debug\netcoreapp3.1\Hello World.exe
+D:\Sixth Semester\Net Centric Compuing\Coding\Hello World\Hello World\bin\Debug\netcoreapp3.1\Hello World.deps.json
+D:\Sixth Semester\Net Centric Compuing\Coding\Hello World\Hello World\bin\Debug\netcoreapp3.1\Hello World.runtimeconfig.json
+D:\Sixth Semester\Net Centric Compuing\Coding\Hello World\Hello World\bin\Debug\netcoreapp3.1\Hello World.runtimeconfig.dev.json
+D:\Sixth Semester\Net Centric Compuing\Coding\Hello World\Hello World\bin\Debug\netcoreapp3.1\Hello World.dll
+D:\Sixth Semester\Net Centric Compuing\Coding\Hello World\Hello World\bin\Debug\netcoreapp3.1\Hello World.pdb
+D:\Sixth Semester\Net Centric Compuing\Coding\Hello World\Hello World\obj\Debug\netcoreapp3.1\Hello World.csprojAssemblyReference.cache
+D:\Sixth Semester\Net Centric Compuing\Coding\Hello World\Hello World\obj\Debug\netcoreapp3.1\Hello World.AssemblyInfoInputs.cache
+D:\Sixth Semester\Net Centric Compuing\Coding\Hello World\Hello World\obj\Debug\netcoreapp3.1\Hello World.AssemblyInfo.cs
+D:\Sixth Semester\Net Centric Compuing\Coding\Hello World\Hello World\obj\Debug\netcoreapp3.1\Hello World.csproj.CoreCompileInputs.cache
+D:\Sixth Semester\Net Centric Compuing\Coding\Hello World\Hello World\obj\Debug\netcoreapp3.1\Hello World.dll
+D:\Sixth Semester\Net Centric Compuing\Coding\Hello World\Hello World\obj\Debug\netcoreapp3.1\Hello World.pdb
+D:\Sixth Semester\Net Centric Compuing\Coding\Hello World\Hello World\obj\Debug\netcoreapp3.1\Hello World.genruntimeconfig.cache
