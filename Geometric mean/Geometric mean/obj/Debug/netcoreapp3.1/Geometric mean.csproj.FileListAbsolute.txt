@@ -1,0 +1,13 @@
+D:\Sixth Semester\Net Centric Compuing\Coding\Geometric mean\Geometric mean\bin\Debug\netcoreapp3.1\Geometric mean.exe
+D:\Sixth Semester\Net Centric Compuing\Coding\Geometric mean\Geometric mean\bin\Debug\netcoreapp3.1\Geometric mean.deps.json
+D:\Sixth Semester\Net Centric Compuing\Coding\Geometric mean\Geometric mean\bin\Debug\netcoreapp3.1\Geometric mean.runtimeconfig.json
+D:\Sixth Semester\Net Centric Compuing\Coding\Geometric mean\Geometric mean\bin\Debug\netcoreapp3.1\Geometric mean.runtimeconfig.dev.json
+D:\Sixth Semester\Net Centric Compuing\Coding\Geometric mean\Geometric mean\bin\Debug\netcoreapp3.1\Geometric mean.dll
+D:\Sixth Semester\Net Centric Compuing\Coding\Geometric mean\Geometric mean\bin\Debug\netcoreapp3.1\Geometric mean.pdb
+D:\Sixth Semester\Net Centric Compuing\Coding\Geometric mean\Geometric mean\obj\Debug\netcoreapp3.1\Geometric mean.csprojAssemblyReference.cache
+D:\Sixth Semester\Net Centric Compuing\Coding\Geometric mean\Geometric mean\obj\Debug\netcoreapp3.1\Geometric mean.AssemblyInfoInputs.cache
+D:\Sixth Semester\Net Centric Compuing\Coding\Geometric mean\Geometric mean\obj\Debug\netcoreapp3.1\Geometric mean.AssemblyInfo.cs
+D:\Sixth Semester\Net Centric Compuing\Coding\Geometric mean\Geometric mean\obj\Debug\netcoreapp3.1\Geometric mean.csproj.CoreCompileInputs.cache
+D:\Sixth Semester\Net Centric Compuing\Coding\Geometric mean\Geometric mean\obj\Debug\netcoreapp3.1\Geometric mean.dll
+D:\Sixth Semester\Net Centric Compuing\Coding\Geometric mean\Geometric mean\obj\Debug\netcoreapp3.1\Geometric mean.pdb
+D:\Sixth Semester\Net Centric Compuing\Coding\Geometric mean\Geometric mean\obj\Debug\netcoreapp3.1\Geometric mean.genruntimeconfig.cache
