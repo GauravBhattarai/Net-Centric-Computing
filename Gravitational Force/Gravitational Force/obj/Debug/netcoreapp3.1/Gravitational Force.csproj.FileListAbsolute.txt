@@ -1,0 +1,13 @@
+D:\Sixth Semester\Net Centric Compuing\Coding\Gravitational Force\Gravitational Force\obj\Debug\netcoreapp3.1\Gravitational Force.csprojAssemblyReference.cache
+D:\Sixth Semester\Net Centric Compuing\Coding\Gravitational Force\Gravitational Force\obj\Debug\netcoreapp3.1\Gravitational Force.AssemblyInfoInputs.cache
+D:\Sixth Semester\Net Centric Compuing\Coding\Gravitational Force\Gravitational Force\obj\Debug\netcoreapp3.1\Gravitational Force.AssemblyInfo.cs
+D:\Sixth Semester\Net Centric Compuing\Coding\Gravitational Force\Gravitational Force\obj\Debug\netcoreapp3.1\Gravitational Force.csproj.CoreCompileInputs.cache
+D:\Sixth Semester\Net Centric Compuing\Coding\Gravitational Force\Gravitational Force\bin\Debug\netcoreapp3.1\Gravitational Force.exe
+D:\Sixth Semester\Net Centric Compuing\Coding\Gravitational Force\Gravitational Force\bin\Debug\netcoreapp3.1\Gravitational Force.deps.json
+D:\Sixth Semester\Net Centric Compuing\Coding\Gravitational Force\Gravitational Force\bin\Debug\netcoreapp3.1\Gravitational Force.runtimeconfig.json
+D:\Sixth Semester\Net Centric Compuing\Coding\Gravitational Force\Gravitational Force\bin\Debug\netcoreapp3.1\Gravitational Force.runtimeconfig.dev.json
+D:\Sixth Semester\Net Centric Compuing\Coding\Gravitational Force\Gravitational Force\bin\Debug\netcoreapp3.1\Gravitational Force.dll
+D:\Sixth Semester\Net Centric Compuing\Coding\Gravitational Force\Gravitational Force\bin\Debug\netcoreapp3.1\Gravitational Force.pdb
+D:\Sixth Semester\Net Centric Compuing\Coding\Gravitational Force\Gravitational Force\obj\Debug\netcoreapp3.1\Gravitational Force.dll
+D:\Sixth Semester\Net Centric Compuing\Coding\Gravitational Force\Gravitational Force\obj\Debug\netcoreapp3.1\Gravitational Force.pdb
+D:\Sixth Semester\Net Centric Compuing\Coding\Gravitational Force\Gravitational Force\obj\Debug\netcoreapp3.1\Gravitational Force.genruntimeconfig.cache
