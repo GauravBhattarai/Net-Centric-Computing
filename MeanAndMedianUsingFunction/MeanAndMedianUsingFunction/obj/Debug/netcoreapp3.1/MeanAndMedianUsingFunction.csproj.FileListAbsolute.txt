@@ -1,0 +1,13 @@
+C:\Users\Gaurav~Varuagme\source\repos\MeanAndMedianUsingFunction\MeanAndMedianUsingFunction\bin\Debug\netcoreapp3.1\MeanAndMedianUsingFunction.exe
+C:\Users\Gaurav~Varuagme\source\repos\MeanAndMedianUsingFunction\MeanAndMedianUsingFunction\bin\Debug\netcoreapp3.1\MeanAndMedianUsingFunction.deps.json
+C:\Users\Gaurav~Varuagme\source\repos\MeanAndMedianUsingFunction\MeanAndMedianUsingFunction\bin\Debug\netcoreapp3.1\MeanAndMedianUsingFunction.runtimeconfig.json
+C:\Users\Gaurav~Varuagme\source\repos\MeanAndMedianUsingFunction\MeanAndMedianUsingFunction\bin\Debug\netcoreapp3.1\MeanAndMedianUsingFunction.runtimeconfig.dev.json
+C:\Users\Gaurav~Varuagme\source\repos\MeanAndMedianUsingFunction\MeanAndMedianUsingFunction\bin\Debug\netcoreapp3.1\MeanAndMedianUsingFunction.dll
+C:\Users\Gaurav~Varuagme\source\repos\MeanAndMedianUsingFunction\MeanAndMedianUsingFunction\bin\Debug\netcoreapp3.1\MeanAndMedianUsingFunction.pdb
+C:\Users\Gaurav~Varuagme\source\repos\MeanAndMedianUsingFunction\MeanAndMedianUsingFunction\obj\Debug\netcoreapp3.1\MeanAndMedianUsingFunction.csprojAssemblyReference.cache
+C:\Users\Gaurav~Varuagme\source\repos\MeanAndMedianUsingFunction\MeanAndMedianUsingFunction\obj\Debug\netcoreapp3.1\MeanAndMedianUsingFunction.AssemblyInfoInputs.cache
+C:\Users\Gaurav~Varuagme\source\repos\MeanAndMedianUsingFunction\MeanAndMedianUsingFunction\obj\Debug\netcoreapp3.1\MeanAndMedianUsingFunction.AssemblyInfo.cs
+C:\Users\Gaurav~Varuagme\source\repos\MeanAndMedianUsingFunction\MeanAndMedianUsingFunction\obj\Debug\netcoreapp3.1\MeanAndMedianUsingFunction.csproj.CoreCompileInputs.cache
+C:\Users\Gaurav~Varuagme\source\repos\MeanAndMedianUsingFunction\MeanAndMedianUsingFunction\obj\Debug\netcoreapp3.1\MeanAndMedianUsingFunction.dll
+C:\Users\Gaurav~Varuagme\source\repos\MeanAndMedianUsingFunction\MeanAndMedianUsingFunction\obj\Debug\netcoreapp3.1\MeanAndMedianUsingFunction.pdb
+C:\Users\Gaurav~Varuagme\source\repos\MeanAndMedianUsingFunction\MeanAndMedianUsingFunction\obj\Debug\netcoreapp3.1\MeanAndMedianUsingFunction.genruntimeconfig.cache
