@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mass Energy Equivalence", "Mass Energy Equivalence\Mass Energy Equivalence.csproj", "{29D8A40B-1681-4627-BA4D-07BEF5F6FBB9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{29D8A40B-1681-4627-BA4D-07BEF5F6FBB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29D8A40B-1681-4627-BA4D-07BEF5F6FBB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29D8A40B-1681-4627-BA4D-07BEF5F6FBB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29D8A40B-1681-4627-BA4D-07BEF5F6FBB9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7B26BC73-0326-4C79-A952-CE0AD7D3613B}
+	EndGlobalSection
+EndGlobal

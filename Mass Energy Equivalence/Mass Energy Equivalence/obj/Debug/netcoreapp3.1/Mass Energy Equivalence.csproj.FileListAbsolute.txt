@@ -1,0 +1,13 @@
+C:\Users\Gaurav~Varuagme\source\repos\Mass Energy Equivalence\Mass Energy Equivalence\bin\Debug\netcoreapp3.1\Mass Energy Equivalence.exe
+C:\Users\Gaurav~Varuagme\source\repos\Mass Energy Equivalence\Mass Energy Equivalence\bin\Debug\netcoreapp3.1\Mass Energy Equivalence.deps.json
+C:\Users\Gaurav~Varuagme\source\repos\Mass Energy Equivalence\Mass Energy Equivalence\bin\Debug\netcoreapp3.1\Mass Energy Equivalence.runtimeconfig.json
+C:\Users\Gaurav~Varuagme\source\repos\Mass Energy Equivalence\Mass Energy Equivalence\bin\Debug\netcoreapp3.1\Mass Energy Equivalence.runtimeconfig.dev.json
+C:\Users\Gaurav~Varuagme\source\repos\Mass Energy Equivalence\Mass Energy Equivalence\bin\Debug\netcoreapp3.1\Mass Energy Equivalence.dll
+C:\Users\Gaurav~Varuagme\source\repos\Mass Energy Equivalence\Mass Energy Equivalence\bin\Debug\netcoreapp3.1\Mass Energy Equivalence.pdb
+C:\Users\Gaurav~Varuagme\source\repos\Mass Energy Equivalence\Mass Energy Equivalence\obj\Debug\netcoreapp3.1\Mass Energy Equivalence.csprojAssemblyReference.cache
+C:\Users\Gaurav~Varuagme\source\repos\Mass Energy Equivalence\Mass Energy Equivalence\obj\Debug\netcoreapp3.1\Mass Energy Equivalence.AssemblyInfoInputs.cache
+C:\Users\Gaurav~Varuagme\source\repos\Mass Energy Equivalence\Mass Energy Equivalence\obj\Debug\netcoreapp3.1\Mass Energy Equivalence.AssemblyInfo.cs
+C:\Users\Gaurav~Varuagme\source\repos\Mass Energy Equivalence\Mass Energy Equivalence\obj\Debug\netcoreapp3.1\Mass Energy Equivalence.csproj.CoreCompileInputs.cache
+C:\Users\Gaurav~Varuagme\source\repos\Mass Energy Equivalence\Mass Energy Equivalence\obj\Debug\netcoreapp3.1\Mass Energy Equivalence.dll
+C:\Users\Gaurav~Varuagme\source\repos\Mass Energy Equivalence\Mass Energy Equivalence\obj\Debug\netcoreapp3.1\Mass Energy Equivalence.pdb
+C:\Users\Gaurav~Varuagme\source\repos\Mass Energy Equivalence\Mass Energy Equivalence\obj\Debug\netcoreapp3.1\Mass Energy Equivalence.genruntimeconfig.cache

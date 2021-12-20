@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Mass Energy Equivalence/1.0.0": {
+        "runtime": {
+          "Mass Energy Equivalence.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Mass Energy Equivalence/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
