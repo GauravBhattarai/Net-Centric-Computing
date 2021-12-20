@@ -1,0 +1,12 @@
+C:\Users\Gaurav~Varuagme\source\repos\Matrix Sum and Difference\Matrix Sum and Difference\bin\Debug\netcoreapp3.1\Matrix Sum and Difference.exe
+C:\Users\Gaurav~Varuagme\source\repos\Matrix Sum and Difference\Matrix Sum and Difference\bin\Debug\netcoreapp3.1\Matrix Sum and Difference.deps.json
+C:\Users\Gaurav~Varuagme\source\repos\Matrix Sum and Difference\Matrix Sum and Difference\bin\Debug\netcoreapp3.1\Matrix Sum and Difference.runtimeconfig.json
+C:\Users\Gaurav~Varuagme\source\repos\Matrix Sum and Difference\Matrix Sum and Difference\bin\Debug\netcoreapp3.1\Matrix Sum and Difference.runtimeconfig.dev.json
+C:\Users\Gaurav~Varuagme\source\repos\Matrix Sum and Difference\Matrix Sum and Difference\bin\Debug\netcoreapp3.1\Matrix Sum and Difference.dll
+C:\Users\Gaurav~Varuagme\source\repos\Matrix Sum and Difference\Matrix Sum and Difference\bin\Debug\netcoreapp3.1\Matrix Sum and Difference.pdb
+C:\Users\Gaurav~Varuagme\source\repos\Matrix Sum and Difference\Matrix Sum and Difference\obj\Debug\netcoreapp3.1\Matrix Sum and Difference.AssemblyInfoInputs.cache
+C:\Users\Gaurav~Varuagme\source\repos\Matrix Sum and Difference\Matrix Sum and Difference\obj\Debug\netcoreapp3.1\Matrix Sum and Difference.AssemblyInfo.cs
+C:\Users\Gaurav~Varuagme\source\repos\Matrix Sum and Difference\Matrix Sum and Difference\obj\Debug\netcoreapp3.1\Matrix Sum and Difference.csproj.CoreCompileInputs.cache
+C:\Users\Gaurav~Varuagme\source\repos\Matrix Sum and Difference\Matrix Sum and Difference\obj\Debug\netcoreapp3.1\Matrix Sum and Difference.dll
+C:\Users\Gaurav~Varuagme\source\repos\Matrix Sum and Difference\Matrix Sum and Difference\obj\Debug\netcoreapp3.1\Matrix Sum and Difference.pdb
+C:\Users\Gaurav~Varuagme\source\repos\Matrix Sum and Difference\Matrix Sum and Difference\obj\Debug\netcoreapp3.1\Matrix Sum and Difference.genruntimeconfig.cache
